@@ -1,0 +1,12 @@
+student_name,study_hours,attendance,previous_score,final_score
+Ali,2,70,55,58
+Ahmed,4,80,65,70
+Sara,6,90,75,82
+Ayesha,3,75,60,65
+Bilal,1,60,50,52
+Hassan,7,92,80,88
+Fatima,5,85,72,78
+Usman,2,68,58,60
+Zainab,6,91,77,85
+Hamza,4,82,66,72
+Saad,5,88,74,80
